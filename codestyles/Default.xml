@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="RIGHT_MARGIN" value="300" />
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
   <Python>
     <option name="ALIGN_COLLECTIONS_AND_COMPREHENSIONS" value="false" />
